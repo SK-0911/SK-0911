@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SK-0911&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SK-0911&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SK-0911&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
@@ -33,3 +34,5 @@ Here are some ideas to get you started:
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![Snake animation](https://github.com/SK-0911/SK-0911/blob/output/github-contribution-grid-snake.svg)
