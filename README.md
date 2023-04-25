@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&duration=5500&pause=997&color=98F70E&vCenter=true&multiline=true&width=435&lines=Hello+World+%F0%9F%91%8B%F0%9F%8F%BB+)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&color=3AF727&vCenter=true&width=545&height=60&lines=Hello+World+%F0%9F%91%8B%F0%9F%8F%BB;How+Are+You+Today%3F)](https://git.io/typing-svg)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shubzz_92) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-911) 
 
