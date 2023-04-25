@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&duration=5500&pause=997&color=98F70E&vCenter=true&multiline=true&width=435&lines=Hello+World+%F0%9F%91%8B%F0%9F%8F%BB+)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
