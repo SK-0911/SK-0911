@@ -1,4 +1,4 @@
-<!-- ### Hi there 👋 -->
+<!-- ### Hi there, 👋 -->
 
 <!--
 **SK-0911/SK-0911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
