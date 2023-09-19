@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![Snake animation](https://github.com/SK-0911/SK-0911/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/SK-0911/SK-0911/blob/output/github-contribution-grid-snake.svg)-->
